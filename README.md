@@ -38,19 +38,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Visualizador de Dados da HIDROWEB v3.2.0</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Aplicação Web para visualizar séries históricas de estações fluviométricas e pluviométricas do portal HIDROWEB da Agência Nacional das Águas (ANA)
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/renan-cassimiro/ordenador_dados_hidroweb"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/renan-cassimiro/ordenador_dados_hidroweb">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/renan-cassimiro/ordenador_dados_hidroweb/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/renan-cassimiro/ordenador_dados_hidroweb/issues">Request Feature</a>
   </p>
 </p>
 
