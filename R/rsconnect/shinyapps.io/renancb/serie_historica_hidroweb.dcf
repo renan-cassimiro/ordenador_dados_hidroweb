@@ -1,0 +1,13 @@
+name: serie_historica_hidroweb
+title:
+username:
+account: renancb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4383748
+bundleId: 4817460
+url: https://renancb.shinyapps.io/serie_historica_hidroweb/
+when: 1626240015.79127
+lastSyncTime: 1626240015.79127
+asMultiple: FALSE
+asStatic: FALSE
